@@ -1,0 +1,6 @@
+name: FishingRod
+main: blackjack200\fishingrod\Loader
+version: 0.0.1
+api: 3.0.0
+author: Blackjack200
+website: https://github.com/Blackjack200/FishingRod.git
